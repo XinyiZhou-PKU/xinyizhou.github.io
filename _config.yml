@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   name             : "周欣怡"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at PKU"
